@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ko" data-bs-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+  <title>Admin 페이지 프론트단 프로젝트-메인 페이지 제작</title>
+  <link href="Admin2.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <header class="d-flex justify-content-between align-items-start">
+        <div id="head">
+            <div id="logo">
+                <h1>
+                    <strong>
+                        <em>KREAM</em>
+                    </strong>
+                </h1>
+            </div>
+
+            <div id="genderSelect" class="text-end">
+                <select class="form-select" id="gender" style="width: 150px;">
+                    <option value="남성 의류" id="man" selected>남성 의류</option>
+                    <option value="여성 의류" id="woman">여성 의류</option>                    
+                </select> 
+            </div>
+        </div>      
+
+        <div class="text-end">            
+            <div id="currentDateTime" class="mb-2"></div> <!-- 날짜 및 시간 -->
+            <button id="darkBtn" class="btn btn-outline-secondary" onclick="darkMode()">다크 모드 전환</button>
+        </div>
+        
+    </header>
+    
+
+    <hr>
+
+    <main>
+
+        <div class="container mt-3">
+            <h3 class="mt-5 mb-1">New In</h3>
+            <h6 class="mb-3">신규 등록 상품</h6>
+            
+            <form class="row row-cols- lg-auto g-3 align-items-center">      
+                <div class="col-auto">
+                    <label class="visually-hidden" for="inlineFormSelectPref">Preference</label>        
+                    <select class="form-select" id="inlineFormSelectPref" name="category_data_table" style="width: 150px;">
+                    <!-- 셀렉트요소의 name="category_data_table"은 지우거나 변경하면 안돼요 -->
+                    <!-- 카테고리 셀렉트 코드를 넣어주세요 -->
+                        <option value="카테고리" id="category1">카테고리</option>
+                        <option value="상의" id="top">상의</option>
+                        <option value="하의" id="bottom">하의</option>
+                        <option value="신발" id="shoes">신발</option>
+                        <option value="패션잡화" id="fashion">패션잡화</option>
+                        <option value="악세사리" id="accessory">악세사리</option>                    
+                    </select>
+                </div>
+
+                <div class="col-auto">
+                    <!-- input 입력창 코드를 넣어주세요 -->
+                    <input type="text" class="form-control" id="productTitle" placeholder="브랜드, 제품명 입력" style="width: 250px">
+                </div>
+
+                <div class="col-auto">
+                    <!-- 조회 버튼 코드를 넣어주세요 -->
+                    <button type="button" class="btn btn-dark" id="searchButton">검색</button>
+                </div>
+
+            </form>
+
+            <div class="container mt-3">
+                <table class="table table-sm">
+                    <thead style="font-size: 18px;">            
+                    <!-- 열의 속성값을 나타내는 코드를 작성해주세요 (예 : 카테고리, 브랜드, 상품명, 가격) -->
+                        <tr>
+                            <th id="category2">카테고리</th>
+                            <th id="brand">브랜드</th>
+                            <th id="productName">상품명</th>
+                            <th id="price">가격</th>                       
+                        </tr>
+                    
+                    </thead> 
+
+                    <tbody id="product_data_Table">
+                    <!-- tbody요소의 id="product_data_Table" 는 지우거나 변경하면 안돼요! -->
+                    <!-- 제품 데이터가 여기 추가됩니다. -->
+                    </tbody>
+                </table>
+            </div>
+
+            <div>
+                <nav aria-label="Page navigation">
+                    <ul class="pagination justify-content-center">
+                      <li class="page-item disabled"><a class="page-link">Previous</a></li>
+                      <li class="page-item"><a class="page-link"  href="#">1</a></li>
+                      <li class="page-item"><a class="page-link"  href="#">2</a></li>
+                      <li class="page-item"><a class="page-link"  vhref="#">3</a></li>
+                      <li class="page-item"><a class="page-link"  href="#">Next</a></li>
+                    </ul>
+                  </nav>
+            </div>            
+            
+            
+        </div>
+
+        <script src="Admin2.js"></script> 
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+        
+    </main>
+
+    <hr>
+    
+    <footer>
+        <div id="copyright" class="d-flex justify-content-between">
+            <p>&copy; 2024 <strong><em>KREAM</em></strong>. All rights reserved.</p>
+            <div>
+                <button type="button" class="btn btn-link" id="signupBtn">회원가입</button>
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+
+</html>
