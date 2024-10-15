@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="881c082c-c8b2-4a4b-8cec-d8f8c63d1a6b" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/Python/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/.idea/Python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Python" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -73,6 +69,8 @@
       <updated>1728989801752</updated>
       <workItem from="1728989802866" duration="145000" />
       <workItem from="1728990519387" duration="270000" />
+      <workItem from="1728990807782" duration="292000" />
+      <workItem from="1728991125848" duration="153000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -106,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728990548187</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1728990975538</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728990975538</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
