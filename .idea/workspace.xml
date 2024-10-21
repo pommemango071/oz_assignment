@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="881c082c-c8b2-4a4b-8cec-d8f8c63d1a6b" name="Changes" comment="first commit">
       <change afterPath="$PROJECT_DIR$/Python/day_4/Chapter1416_과제(+붕세션).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +100,7 @@
       <workItem from="1729472716908" duration="9137000" />
       <workItem from="1729495168725" duration="2627000" />
       <workItem from="1729512607746" duration="31000" />
+      <workItem from="1729512662044" duration="277000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
