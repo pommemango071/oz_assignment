@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="881c082c-c8b2-4a4b-8cec-d8f8c63d1a6b" name="Changes" comment="first commit">
       <change afterPath="$PROJECT_DIR$/Python/day_4/Chapter1416_과제.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/day_6/라이브세션 과제.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_6/fish.py.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/fish_function.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +108,7 @@
       <workItem from="1729512662044" duration="277000" />
       <workItem from="1729527985833" duration="52000" />
       <workItem from="1729575828366" duration="436000" />
+      <workItem from="1729650875329" duration="75000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
