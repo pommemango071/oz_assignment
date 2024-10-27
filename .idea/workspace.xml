@@ -6,11 +6,34 @@
   <component name="ChangeListManager">
     <list default="true" id="881c082c-c8b2-4a4b-8cec-d8f8c63d1a6b" name="Changes" comment="first commit">
       <change afterPath="$PROJECT_DIR$/Python/day_4/Chapter1416_과제.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_5/Chapter1720_과제.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python/day_6/fish.py.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python/day_7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/.idea/day_7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python/day_7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python/day_7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/fish_class.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python/day_7/fish_function.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/과제/animals/birds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/과제/animals/mammals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/과제/myfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/과제/mymath.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/과제/task_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/과제/task_2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/과제/task_3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/과제/task_4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/과제/task_5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/과제/task_6.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/과제/task_7.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/과제/task_8.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/과제/task_9.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_7/과제/도전 과제/보물 찾기 게임.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/day_8/R_Ch42~47_task.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/쪽지시험/python chapter1~2(easy) re.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/쪽지시험/python chapter1~2(easy) retry.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/쪽지시험/python chapter1~2(easy).ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +133,7 @@
       <workItem from="1729575828366" duration="436000" />
       <workItem from="1729650875329" duration="75000" />
       <workItem from="1729737545715" duration="62000" />
+      <workItem from="1729851252607" duration="392000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
