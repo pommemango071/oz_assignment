@@ -1,0 +1,12 @@
+[submodule "Git/T1_Git"]
+	path = Git/T1_Git
+	url = /Users/momo/Desktop/Git_github/T1_Git
+[submodule "Git/T2_Git"]
+	path = Git/T2_Git
+	url = /Users/momo/Desktop/Git_github/T2_git_branch
+[submodule "Git/T3_Git_branch_sourcetree"]
+	path = Git/T3_Git_branch_sourcetree
+	url = /Users/momo/Desktop/Git_github/T3_Git_branch_sourcetree
+[submodule "Git/T2_git_branch"]
+	path = Git/T2_git_branch
+	url = /Users/momo/Desktop/Git_github/T2_git_branch
