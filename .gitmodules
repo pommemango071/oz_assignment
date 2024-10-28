@@ -10,3 +10,6 @@
 [submodule "Git/T2_git_branch"]
 	path = Git/T2_git_branch
 	url = /Users/momo/Desktop/Git_github/T2_git_branch
+[submodule "T1_Git"]
+	path = T1_Git
+	url = https://github.com/pommemango071/T1_Git.git
